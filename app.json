@@ -1,9 +1,9 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "Zdisk_Bot",
+    "description": "Make short link by using Zdiski API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "zdisk"
     ],
     "website": "https://github.com/Mahesh0253/GPlink-bot",
     "repository": "https://github.com/Mahesh0253/GPlink-bot",
@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://gplinks.in/member/tools/api",
+            "description": "Get API key from https://zdisk.in/member/tools/api",
             "required": false
         }
     },

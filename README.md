@@ -4,7 +4,7 @@ Make short link by using [Zdisk](https://zdisk.in/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hostfry)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hostfry/url)
 
 ## Try GPLinks PHP Bot (Some Are getting Error In This Repo So Use PHP Repo. If You Are Getting Error)
 https://github.com/hostfry

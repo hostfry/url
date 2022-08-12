@@ -1,13 +1,13 @@
-# GPLinksBot 🔥
-Make short link by using [GPlink](https://gplinks.in/) API key
+# ZdiskBot 🔥
+Make short link by using [Zdisk](https://zdisk.in/) API key
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/CyberBoyAyush/GPLinksBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hostfry)
 
 ## Try GPLinks PHP Bot (Some Are getting Error In This Repo So Use PHP Repo. If You Are Getting Error)
-https://github.com/CyberBoyAyush/Gp-Links-Bot
+https://github.com/hostfry
 
 ##### Required Variables
 
@@ -15,7 +15,7 @@ https://github.com/CyberBoyAyush/Gp-Links-Bot
 
 * `API_ID`: Get this value from [telgram.org](https://my.telegram.org/apps) Or By Telegram Bot [TgApiextractorBot](https://telegram.dog/TgApiextractorBot)
 * `API_HASH`: Get this value from [telgram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [GPlink](https://gplinks.in/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
+* `API_KEY`: Create [GPlink](https://zdisk.in/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
 
 ##### Credit
 * [Mahesh Bhai](https://github.com/Mahesh0253) For His Repo
